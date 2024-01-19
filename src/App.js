@@ -7,8 +7,8 @@ function App() {
       <header className="App-header">
 
         Hello Richardson :_)
-        weclome
-        
+        weclome to Weather app 
+
       </header>
     </div>
   );
