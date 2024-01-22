@@ -1,0 +1,34 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+.App {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#headerName{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#searchSpace{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputSearch{
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 115px;
+}
+
+submit{
+    padding:10px;
+    
+}
